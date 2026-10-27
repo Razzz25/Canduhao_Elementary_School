@@ -1,0 +1,17 @@
+{
+  "name": "The Bulod \u2014 Canduhao Elementary School",
+  "short_name": "The Bulod",
+  "description": "Online school publication of Canduhao Elementary School",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f8fc",
+  "theme_color": "#073b8c",
+  "icons": [
+    {
+      "src": "assets/the-bulod-logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
